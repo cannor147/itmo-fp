@@ -1,0 +1,12 @@
+[submodule "hw00-types"]
+	path = hw00-types
+	url = git@github.com:cannor147/itmo-fp-hw0.git
+[submodule "hw01-basics"]
+	path = hw01-basics
+	url = git@github.com:cannor147/itmo-fp-hw1.git
+[submodule "hw02-parser"]
+	path = hw02-parser
+	url = git@github.com:cannor147/itmo-fp-hw2.git
+[submodule "hw03-edsl"]
+	path = hw03-edsl
+	url = git@github.com:cannor147/itmo-fp-hw3.git
