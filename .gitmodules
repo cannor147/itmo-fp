@@ -10,3 +10,9 @@
 [submodule "hw03-edsl"]
 	path = hw03-edsl
 	url = git@github.com:cannor147/itmo-fp-hw3.git
+[submodule "sw01"]
+	path = sw01
+	url = https://github.com/cannor147/itmo-fp-sw01.git
+[submodule "sw02"]
+	path = sw02
+	url = https://github.com/cannor147/itmo-fp-sw02.git

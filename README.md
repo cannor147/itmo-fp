@@ -11,6 +11,11 @@ Course was designed and taught by [Serokell](https://github.com/serokell) compan
 3. Constructing applicative and monadic parsers ([statements and solution](https://github.com/cannor147/itmo-fp-hw2))
 4. Constructing eDSL ([statements and solution](https://github.com/cannor147/itmo-fp-hw3))
 
+## Summer tasks
+
+1. Interpreter and pretty-printer ([statements (ru) and solution](https://github.com/cannor147/itmo-fp-sw01))
+2. Network tic-tac-toe ([statements (ru) and solution](https://github.com/cannor147/itmo-fp-sw02))
+
 ## Useful links
 
 * [Course page on GitHub](https://github.com/jagajaga/itmo-fp-2021-autumn)

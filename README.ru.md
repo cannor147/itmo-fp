@@ -11,6 +11,11 @@
 3. Построение аппликативного и монадического парсеров ([условия (en) и решение](https://github.com/cannor147/itmo-fp-hw2))
 4. Построение eDSL ([условия (en) и решение](https://github.com/cannor147/itmo-fp-hw3))
 
+## Летние задания
+
+1. Интерпретатор и pretty-printer ([условия и решение](https://github.com/cannor147/itmo-fp-sw01))
+2. Крестики-нолики по сети ([условия и решение](https://github.com/cannor147/itmo-fp-sw02))
+
 ## Полезные ссылки
 
 * [Страница курса на гитхабе](https://github.com/jagajaga/itmo-fp-2021-autumn)
